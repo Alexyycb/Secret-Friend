@@ -19,10 +19,24 @@ function limparCampo() {
 }
 function atualizarLista (amigos) {
     let lista = document.getElementById('listaAmigos');
-    listaAmigos.innerHTML = "";
+    lista.innerHTML = "";
     for(let i = 0 ; i < amigos.length ; i++) {
         let elemento = document.createElement('li');
         elemento.textContent = amigos[i];
         lista.appendChild(elemento);
     }
+}
+function sortearAmigo() {
+    if (amigos.length === 0) {
+    console.log('sortear vazio');
+    alert('Lista de amigos vazia, por favor insira um nome')
+    return;
+} else {
+    console.log('sortear não vazio');
+    let indiceSorteado = Math.floor(Math.random() * amigos.length);
+    let nomeSorteado = amigos[indiceSorteado];
+    console.log(nomeSorteado);
+    let resultadoFinal = document.getElementById('resultado');
+    resultadoFinal.innerHTML = nomeSorteado;
+}
 }
