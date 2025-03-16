@@ -8,7 +8,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Descrição
-Este é um projeto permite que os usuários adicionem nomes a uma lista e realizem um sorteio aleatório para definir o amigo secreto. Serve para vários tipos de sorteios.
+Este é um projeto que permite que os usuários adicionem nomes a uma lista e realizem um sorteio aleatório para definir o amigo secreto. Serve para vários tipos de sorteios.
 
 ## Funcionalidades
 - ✅ Adicionar nomes a uma lista.
