@@ -1,4 +1,4 @@
-(![Titulo do repertorio amigo secreto](https://github.com/user-attachments/assets/bc9e148d-82f7-47c0-8f9d-265a19658e11)
+![Titulo do repertorio amigo secreto](https://github.com/user-attachments/assets/bc9e148d-82f7-47c0-8f9d-265a19658e11)
 
 > Site simples para sorteio de amigo secreto, permitindo adicionar quantos amigos quiser a uma lista e selecionar um nome aleatoriamente.
 
